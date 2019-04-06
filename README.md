@@ -1,6 +1,6 @@
 # UISwitchProgrammaticallySwift
 
-LLearn Everything you need to know about creating a UISwitch in Swift 5 programmatically!
+Learn Everything you need to know about creating a UISwitch in Swift 5 programmatically!
 
 https://youtu.be/6U06JztViD4
 
